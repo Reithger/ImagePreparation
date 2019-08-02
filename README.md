@@ -1,0 +1,2 @@
+# ImagePreparation
+ I also worked as the university newspaper's online editor, which required a lot of images to be preprocessed for posting online (reduce size, right proportions, RGB, etc.). I got pretty good at doing this in photoshop, then realized I could probably just use some image libraries and automate a 15-20 minute process to ~2 if the images are CMYK and large. (CMYK to RGB is a slow conversion). This project is pretty specific to my purposes, but may be a good example if someone's looking to do something similar (or if I want to use it again later).
